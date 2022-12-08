@@ -4,7 +4,6 @@ import Image from 'next/image';
 import { useRouter } from 'next/router';
 import { GetServerSideProps, GetStaticProps } from 'next';
 import axios from 'axios';
-import bebidas from '../../public/bebidas.jpg';
 import Ulist2 from '../../components/Ulist2';
 import Banner from '../../components/Banner';
 import Footer from '../../components/footer';
